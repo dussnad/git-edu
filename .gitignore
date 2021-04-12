@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ## IntelliJ Idea - text fb
+#.idea comment in fb02 to cause a conflict
+=======
+.idea comment in fb02 to cause a conflict
+>>>>>>> fb-02
